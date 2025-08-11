@@ -6,6 +6,7 @@ author-kartik bhardwaj
   <head>
     <title>
       name
+    </title>
   </head>
       <body>
         <div style="color:red;">
