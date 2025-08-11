@@ -2,12 +2,7 @@
 this is my 2 repositoy
 <br>
 author-kartik bhardwaj 
-<html>
-  <head>
-    <title>
-      name
-    </title>
-  </head>
+<html> 
       <body>
         <div style="color:red;">
           hello world 
