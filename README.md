@@ -5,7 +5,7 @@ author-kartik bhardwaj
 <html> 
       <body>
         <div style="color:red;">
-          hello  bacho kase ho appp sabi 
+          hello  bacho kase ho app sabi 
         </div>
       </body>
 </html>
